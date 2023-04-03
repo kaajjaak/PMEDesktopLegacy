@@ -20,6 +20,7 @@ I'm currently working on a complete rewrite of the project since I do believe th
 
 - [Legacy Mobile Version](https://github.com/kaajjaak/PMEMobileLegacy)
 - [Legacy API](https://github.com/kaajjaak/PMEAPILegacy)
+- [Legacy Android Version (unfinished)](https://github.com/kaajjaak/PMEAndroidLegacy)
 
 
 ## Author
