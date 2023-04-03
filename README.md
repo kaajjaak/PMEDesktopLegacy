@@ -1,7 +1,7 @@
 
 # Productivity Made Easy
 
-A Desktop Application usage tracker that stores its data using online API connected to a MySQL database in order to work cross platform.
+A Desktop Application usage tracker that stores its data using an online API connected to a MySQL database in order to syncronise cross platform.
 
 ## Information
 
@@ -18,8 +18,8 @@ I'm currently working on a complete rewrite of the project since I do believe th
 
 ## Related
 
-Mobile Version:
-[Legacy PME Mobile](https://github.com/kaajjaak/PMEMobileLegacy)
+- [Legacy Mobile Version](https://github.com/kaajjaak/PMEMobileLegacy)
+- [Legacy API](https://github.com/kaajjaak/PMEAPILegacy)
 
 
 ## Author
