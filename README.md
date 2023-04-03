@@ -20,7 +20,7 @@ I'm currently working on a complete rewrite of the project since I do believe th
 ## Related
 
 Here are some related projects:
-(i will add once I commited them to GitHub
+(i will add once I commited them to GitHub)
 
 
 ## Author
