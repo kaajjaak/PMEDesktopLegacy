@@ -1,7 +1,7 @@
 
 # Productivity Made Easy
 
-A Desktop Application usage tracker that stores its data using an online API connected to a MySQL database in order to syncronise cross platform.
+A Desktop Application usage tracker that stores its data using an online API connected to a MySQL database in order to synchronise cross platform.
 
 ## Information
 
